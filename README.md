@@ -3,7 +3,7 @@
 ## About Me
 
 🎓 **Education:** Software Engineering from the [State University of Santa Catarina (UDESC)](https://www.udesc.br/)  
-💼 **Profession:** Senior Software Developer at [Senior Sistemas](https://www.senior.com.br/)  
+💼 **Profession:** Squad Leader at [Senior Sistemas](https://www.senior.com.br/)  
 📍 **Location:** 🇧🇷 Brazil
 
 I’m a Brazilian software engineer with a deep passion for backend development. Over the years, I've gained extensive experience in this field. I thrive on flexibility and love embracing new challenges, especially when it comes to learning different programming languages—they're just exciting puzzles to solve! My professional path has been quite diverse, starting from technical support roles to leading technical teams and developing complex systems. I’m always on the lookout for innovative ideas and strive for continuous improvement, aiming to make a meaningful impact through the projects I work on.
